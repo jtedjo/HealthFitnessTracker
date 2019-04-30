@@ -1,0 +1,33 @@
+=========================== User Health Tracking Journal ===========================
+
+=========================Program Written by: Jonathan Tedjo=========================
+
+Welcome. This program act as a journal through your journey of healthy living. 
+
+Before we get started with the numbers, there are a couple of things I would like to clarify.
+
+The calculation based below is an estimate of what a healthy lifestyle/diet should be based
+
+on the data you gave. It is calculated based on the GENERAL population data.
+
+Only you know your health best! - Jon
+
+Terminology/How this journal data is presented:
+
+The program keeps track of the Date when the entry was created, the first and last name of the user.
+
+It also tracks their gender, height, weight, and age for basic profile.
+
+The Body Mass Index (or BMI) represent the estimated how much mass in comparison to volume (height) your body holds 
+
+(BMI index gives various range of healthiness). 18.5 - 24.9 is the "healthy" range of mass.
+
+Note that BMI depends on your muscle mass as well (if you have a lot of muscles, your BMI might seem high!)
+
+the Basal Metabolic Rate is the expected Caloric value that your body burns naturally. This is affected
+
+by your body's natural inclination. Estimated Energy Requirement (EER) represents the estimate Calories
+
+your bodies need. Finally, we also added the estimated grams of Carbs, fat, and protein your diet probably needs.
+
+====================================================================================

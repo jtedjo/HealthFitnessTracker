@@ -1,0 +1,11 @@
+Choose Activity...;0
+Bicycling-Light(10-12mph);6.0
+Bicycling-fast(14-16mph);10.0
+Walking/Hiking;5.0
+Dancing;6.5
+Fishing(from boat);2.5
+Basketball;6.0
+Boxing;6.0
+Golf;4.5
+Rope Jumping;10.0
+Rugby;10.0
